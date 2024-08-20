@@ -1,6 +1,6 @@
 # Roadmap for Frontend Developer
 
-Step by step guide to becoming a modern frontend developer
+Step by step guide to becoming a modern frontend developer.
 
 ## WEEK 01
 
@@ -9,8 +9,8 @@ Step by step guide to becoming a modern frontend developer
 - [✔] The Basics
 - [✔] Customizing Visual Studio Code
 - [✔] Write Code 10x Faster Using Advance Shortcuts
-- [ ✔] Emmet's In Visual Studio Code
-- [ ✔] VSC Top Extensions
+- [✔] Emmet's In Visual Studio Code
+- [✔] VSC Top Extensions
 
 ### [Git Tutorials](https://www.youtube.com/watch?v=evknSAkUIvs&list=PLu0W_9lII9agwhy658ZPA0MTStKUJTWPi)
 
