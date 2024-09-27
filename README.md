@@ -132,9 +132,9 @@ Step by step guide to becoming a modern frontend developer.
 
 ### [The Complete JavaScript Course 2023: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/)
 
-- [ ] Forkify App: Building a Modern Application
-- [ ] Setting Up Git and Deployment
-- [ ] The End!
+- [✔] Forkify App: Building a Modern Application
+- [✔] Setting Up Git and Deployment
+- [✔] The End!
 
 ## WEEK 14
 
