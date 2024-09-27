@@ -144,8 +144,8 @@ Step by step guide to becoming a modern frontend developer.
 
 ### [React - The Complete Guide 2023 (incl. React Router & Redux)](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
 
-- [ ] Getting Started
-- [ ] JavaScript Refresher
+- [✔] Getting Started
+- [✔]JavaScript Refresher
 - [ ] React Basics & Working With Components
 - [ ] Time to Practice: Component Basics
 - [ ] React State & Working with Events
