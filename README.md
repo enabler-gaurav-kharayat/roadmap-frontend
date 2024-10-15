@@ -166,7 +166,7 @@ Step by step guide to becoming a modern frontend developer.
 - [✔] Sending Http Requests (e.g. Connecting to a Database)
 - [✔] Building Custom React Hooks
 - [✔] Working with Forms & User Input
-- [ ] Practice Project: Adding Http & Forms To The Food Order App
+- [✔] Practice Project: Adding Http & Forms To The Food Order App
 
 ## WEEK 17
 
