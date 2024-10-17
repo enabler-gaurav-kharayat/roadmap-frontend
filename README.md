@@ -174,7 +174,7 @@ Step by step guide to becoming a modern frontend developer.
 
 - [✔] Diving into Redux (An Alternative To The Context API)
 - [✔] Advanced Redux
-- [ ] Building a Multi-Page SPA with React Router
+- [✔]Building a Multi-Page SPA with React Router
 - [ ] Adding Authentication To React Apps
 - [ ] Deploying React Apps
 
